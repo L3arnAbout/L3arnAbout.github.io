@@ -31704,7 +31704,7 @@ Hy(a){var s,r=this,q=null
 r.a.toString
 s=r.gKA()
 r.a.toString
-return new A.r6(q,q,q,new A.TR(),q,q,q,q,B.AJ,B.A_,q,q,B.xH,r.gKD(),"Redirect",q,B.EY,B.bM,q,s,q,q,B.jX,!1,!1,!1,!1,r.gKo(),!1,q,q,q,!1,new A.hV(r,t.l9))},
+return new A.r6(q,q,q,new A.TR(),q,q,q,q,B.AJ,B.A_,q,q,B.xH,r.gKD(),"Learn About",q,B.EY,B.bM,q,s,q,q,B.jX,!1,!1,!1,!1,r.gKo(),!1,q,q,q,!1,new A.hV(r,t.l9))},
 R(a,b){var s=null,r=A.Jy(!1,!1,this.Hy(b),s,s,s,!0,s,s,new A.TS(),s,s)
 this.a.toString
 return new A.zf(B.rN,new A.jp(A.f(this.d,"_heroController"),r,s),s)}}
